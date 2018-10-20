@@ -1,4 +1,4 @@
-My non-existent portfolio contains a lot of different mediums: graphic design, editorial design, photography, painting, industrial design, etc. and I have never been able to find a portfolio that displays the content that I want in the way that I want.
+My non-existent portfolio contains a lot of different mediums: graphic design, editorial design, photography, painting, industrial design, etc. and I have never been able to find a portfolio format that displays the content that I want in the exact way that I want.
 
 So my goal is to build my own!
 
