@@ -1,0 +1,101 @@
+body {
+    font-size: 14;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.header,
+h1,
+h2,
+h3,
+h4 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200px;
+    margin-left: 100px;
+}
+
+.content h4 {
+    font-weight: 100px;
+}
+
+h5,
+h6,
+p,
+li {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.links {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.projects h5 {
+    font-weight: 20px;
+    font-size: 20px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-size: 14px;
+}
+
+img {
+    width: 100%;
+}
+
+.content img {
+    margin-top: 16px;
+}
+
+.container {
+    max-width: 800px;
+    max-height: 600px;
+    padding: 0px 0px;
+}
+
+.header,
+.links {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header a {
+    margin-left: 10px;
+    margin-right: 32px;
+}
+
+.header {
+    margin-top: 70px;
+    margin-bottom: 4px;
+    margin-left: 0px;
+    height: 32px;
+}
+
+.row {
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.project {
+    height: 80px;
+    width: 230px;
+    margin-left: 20px margin-bottom: 100px;
+    padding: 100px;
+    text-align: center;
+}
+
+.project. project-thumbnail {
+    margin-bottom: 16px;
+    overflow: hidden;
+}
+
+.project. project-thumbnail:hover {
+    box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.15),
+        0 2px 2px 0 rgba(0, 0, 0, 0.10);
+}
+
+.container .project-thumbnail {
+    height: 150px;
+    text-align: center;
+    box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1),
+        0 2px 2px 0 rgba(0, 0, 0, 0.05);
+    border-radius: 7px 7px 7px 7px;
+    margin-left: 0px;
+}
