@@ -1,0 +1,9 @@
+body{
+    background-color: #5E6979;
+}
+#resume{
+    display: block;
+    margin: 0 auto;
+    max-width: 900px;
+    width: calc(100vw - 40px);
+}
