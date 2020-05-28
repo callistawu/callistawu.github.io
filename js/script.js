@@ -1,6 +1,3 @@
-const pdfjsLib = require('pdfjs-dist');
-pdfjsLib.GlobalWorkerOptions.workerSrc =
-'../../node_modules/pdfjs-dist/build/pdf.worker.js';
 const url = "../assets/resume.pdf";
 
 let loadingTask = pdfjsLib.getDocument(url);
