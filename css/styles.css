@@ -1,7 +1,16 @@
 body{
     background-color: #5E6979;
+    margin: 0;
+    padding: 0;
 }
 #resume{
+    display: block;
+    margin: 0 auto;
+    max-width: 900px;
+    width: calc(100vw - 40px);
+}
+.textLayer{
+    position: absolute;
     display: block;
     margin: 0 auto;
     max-width: 900px;
